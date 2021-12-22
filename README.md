@@ -1,2 +1,2 @@
 # LeoWiki
-JustSomeWiki
+Just Some Wiki
